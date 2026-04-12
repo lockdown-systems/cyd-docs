@@ -42,7 +42,7 @@ echo "deb [signed-by=/usr/share/keyrings/lockdown-systems-archive-keyring.gpg] h
 
 # Install Cyd
 sudo apt update
-sudo apt install cyd
+sudo apt install cyd-dev
 ```
 
 Here are instructions for .rpm repos:
@@ -62,7 +62,7 @@ gpgkey=https://releases.lockdown.systems/signing-key.asc
 EOF
 
 # Install Cyd
-sudo dnf install cyd
+sudo dnf install cyd-dev
 ```
 
 If those don't work for you, you can download a zip file version here:
