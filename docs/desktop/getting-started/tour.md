@@ -29,7 +29,7 @@ When you click the menu icon, a menu like this will appear:
 
 From here, you can do the following:
 
-- **Sign into a Cyd account.** This is only necessary if you have a [Premium plan](../premium/intro). If you're already signed in, you can manage your Cyd account.
+- **Sign into a Cyd account.** This is only necessary if you have a [Premium plan](../../premium/intro). If you're already signed in, you can manage your Cyd account.
 - **Check for Cyd updates.** Cyd will automatically check for updates in the background, but you can manually check here as well. We recommend that you always upgrade to the latest version of Cyd.
 - **Open advanced settings.** These are described below.
 - **View the about page.** This shows you the version of Cyd you're currently running.

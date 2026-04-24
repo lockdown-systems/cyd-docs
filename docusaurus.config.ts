@@ -29,6 +29,40 @@ const config: Config = {
         languages: ["en"], // language codes
       },
     ],
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        redirects: [
+          // getting-started
+          { from: "/docs/getting-started/download", to: "/docs/desktop/getting-started/download" },
+          { from: "/docs/getting-started/tour", to: "/docs/desktop/getting-started/tour" },
+          // x platform
+          { from: "/docs/x/sign-in", to: "/docs/desktop/x/sign-in" },
+          { from: "/docs/x/archive", to: "/docs/desktop/x/archive" },
+          { from: "/docs/x/archive-only", to: "/docs/desktop/x/archive-only" },
+          { from: "/docs/x/delete", to: "/docs/desktop/x/delete" },
+          { from: "/docs/x/dashboard", to: "/docs/desktop/x/dashboard" },
+          { from: "/docs/x/migrate-bluesky", to: "/docs/desktop/x/migrate-bluesky" },
+          { from: "/docs/x/local-database/intro", to: "/docs/desktop/x/local-database/intro" },
+          { from: "/docs/x/local-database/archive", to: "/docs/desktop/x/local-database/archive" },
+          { from: "/docs/x/local-database/build", to: "/docs/desktop/x/local-database/build" },
+          { from: "/docs/x/local-database/import", to: "/docs/desktop/x/local-database/import" },
+          { from: "/docs/x/tips/ghost-likes", to: "/docs/desktop/x/tips/ghost-likes" },
+          { from: "/docs/x/tips/other-tweets", to: "/docs/desktop/x/tips/other-tweets" },
+          { from: "/docs/x/tips/u2f", to: "/docs/desktop/x/tips/u2f" },
+          // facebook platform
+          { from: "/docs/facebook/sign-in", to: "/docs/desktop/facebook/sign-in" },
+          { from: "/docs/facebook/get-archive", to: "/docs/desktop/facebook/get-archive" },
+          { from: "/docs/facebook/delete", to: "/docs/desktop/facebook/delete" },
+          { from: "/docs/facebook/dashboard", to: "/docs/desktop/facebook/dashboard" },
+          // tips
+          { from: "/docs/tips/disable-sleep/intro", to: "/docs/desktop/tips/disable-sleep/intro" },
+          { from: "/docs/tips/disable-sleep/linux", to: "/docs/desktop/tips/disable-sleep/linux" },
+          { from: "/docs/tips/disable-sleep/mac", to: "/docs/desktop/tips/disable-sleep/mac" },
+          { from: "/docs/tips/disable-sleep/windows", to: "/docs/desktop/tips/disable-sleep/windows" },
+        ],
+      },
+    ],
   ],
 
   presets: [

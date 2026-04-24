@@ -73,4 +73,4 @@ Cyd runs directly on your computer and not on our servers. Cyd is designed so th
 
 ---
 
-Ready to get started? [Download Cyd now](../getting-started/download).
+Ready to get started? [Download Cyd now](../desktop/getting-started/download).
