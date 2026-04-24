@@ -38,8 +38,8 @@ const config: Config = {
       {
         redirects: [
           // getting-started
-          { from: "/docs/getting-started/download", to: "/docs/desktop/getting-started/download" },
-          { from: "/docs/getting-started/tour", to: "/docs/desktop/getting-started/tour" },
+          { from: "/docs/getting-started/download", to: "/docs/desktop/download" },
+          { from: "/docs/getting-started/tour", to: "/docs/desktop/tour" },
           // x platform
           { from: "/docs/x/sign-in", to: "/docs/desktop/x/sign-in" },
           { from: "/docs/x/archive", to: "/docs/desktop/x/archive" },

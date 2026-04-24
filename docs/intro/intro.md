@@ -7,7 +7,7 @@ sidebar_position: 1
 Cyd is an open source app that makes it easy for you to claw back your data from tech platforms.
 
 - [Cyd for Mobile](../mobile/download) supports **Bluesky**.
-- [Cyd for Desktop](../desktop/getting-started/download) supports **X (formerly Twitter)**, with **Facebook** coming soon.
+- [Cyd for Desktop](../desktop/download) supports **X (formerly Twitter)**, with **Facebook** coming soon.
 
 Cyd helps you create a local, private backup of your data &mdash; like all of your posts, likes, bookmarks, and direct messages. Once you've done this, Cyd helps you choose what data you want to delete from your online account. You can delete it all, or you can be selective, deleting most of it but keeping what went viral.
 
@@ -17,7 +17,7 @@ If you want to automatically delete your old likes, reposts, chat messages, and 
 
 ![Screenshot of Cyd for Mobile](./img/cyd-mobile.png)
 
-If you want to back up and delete your data from **X**, such as tweets, likes, and direct messages, and optionally migrate them to Bluesky, then **start with [Cyd for Desktop](../desktop/getting-started/download).**
+If you want to back up and delete your data from **X**, such as tweets, likes, and direct messages, and optionally migrate them to Bluesky, then **start with [Cyd for Desktop](../desktop/download).**
 
 ![Screenshot of Cyd for Desktop](./img/cyd-desktop.png)
 
@@ -54,4 +54,4 @@ Cyd runs directly on your device and not on our servers. Cyd is designed so that
 
 ---
 
-Ready to get started? Download [Cyd for Mobile](../mobile/download) or [Cyd for Desktop](../desktop/getting-started/download).
+Ready to get started? Download [Cyd for Mobile](../mobile/download) or [Cyd for Desktop](../desktop/download).

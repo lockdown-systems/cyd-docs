@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+title: Tour
 ---
 
-# Tour of Cyd
+# Tour of Cyd for Desktop
 
 When you open Cyd for the first time, you'll see a window like this:
 
