@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# Tour of Cyd for Mobile
+# Tour of Cyd
 
 Coming soon.

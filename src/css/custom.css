@@ -46,3 +46,7 @@ video {
 .theme-doc-markdown a:hover {
   text-decoration: none;
 }
+
+.theme-doc-markdown a.button {
+  text-decoration: none;
+}
